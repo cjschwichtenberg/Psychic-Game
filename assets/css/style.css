@@ -1,0 +1,22 @@
+            #wrapper {
+                /* Image */
+                height: 100%;
+                width: 100%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+            }
+            
+            #heading {
+                color: white;
+                font-size: 30px;
+                text-align: center;
+            }
+            
+            #game {
+                color: white;
+                font-size: 18px;
+                text-align: center;
+            }
