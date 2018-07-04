@@ -10,7 +10,7 @@
         window.onload = function gamePsychic() {
 
 
-            funtion runNum(); {
+            function runNum() {
                 var crystal1 = Math.floor(Math.random() * 10 + 2);
                 var crystal2 = Math.floor(Math.random() * 10 + 2);
                 var crystal3 = Math.floor(Math.random() * 10 + 2);
