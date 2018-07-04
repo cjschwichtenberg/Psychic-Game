@@ -8,16 +8,7 @@
 
         // Start game function
         window.onload = function gamePsychic() {
-
-
-            function runNum() {
-                var crystal1 = Math.floor(Math.random() * 10 + 2);
-                var crystal2 = Math.floor(Math.random() * 10 + 2);
-                var crystal3 = Math.floor(Math.random() * 10 + 2);
-                var crystal4 = Math.floor(Math.random() * 10 + 2);
-            }
-            runNum();
-            console.log(crystal1, crystal2, crystal3, crystal4);
+                
             // Define alphabet array (log to console)
             var alphPsychic = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
             console.log("alphPsychic" + alphPsychic);
